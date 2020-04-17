@@ -18,7 +18,7 @@ A custom Windows 10 theme for the Cinnamon enviornment/Linux Mint.
 
 5. Copy the theme folder to the `/.themes` folder in your home folder.
 
-6. Open the "Themes" configuration tool and select the option for "win10-".
+6. Open the "Themes" configuration tool and select the option for "Win10-".
 
 ## Customization
 
