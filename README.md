@@ -4,7 +4,11 @@ A custom Windows 10 theme for the Cinnamon enviornment/Linux Mint.
 
 ## Getting Started
 
+*Install.sh coming soon*
+
 1. Clone to local machine: `git clone https://github.com/mdgiii/Cinnamon-theme-Windows-10.git`.
+
+2. (Optional) Open the "Themes" configuration tool, if you haven't before, to create the `/.themes` and `/.icons` folders.
 
 2. Copy the contents of the wallpapers folder to the`/Pictures` folder in your home folder.
 
