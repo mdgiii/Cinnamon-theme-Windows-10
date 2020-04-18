@@ -10,7 +10,7 @@ A custom Windows 10 theme for the Cinnamon enviornment/Linux Mint.
 
 2. (Optional) Open the "Themes" configuration tool, if you haven't before, to create the `/.themes` and `/.icons` folders.
 
-2. Copy the contents of the wallpapers folder to the`/Pictures` folder in your home folder.
+2. Copy the contents of the wallpapers folder to the `/Pictures` folder in your home folder.
 
 3. Right-click on your favorite wallpaper and click "Set as Wallpaper".
 
@@ -24,7 +24,7 @@ A custom Windows 10 theme for the Cinnamon enviornment/Linux Mint.
 
 If you don't like the orange color on the Cinnamon menu, I've got good news. You can change the color!
 
-1. Open`/Win10-theme/cinnamon/cinnamon.css` with your favorite text editor.
+1. Open `/Win10-theme/cinnamon/cinnamon.css` with your favorite text editor.
 
 2. Open the find and replace dialog
 
