@@ -28,7 +28,7 @@ If you don't like the orange color on the Cinnamon menu, I've got good news. You
 
 2. Open the find and replace dialog
 
-3. The color that you are looking to replace is `#ff7500'.
+3. The color that you are looking to replace is `#ff7500`.
 
 4. Save file and restart Cinnamon.
 
